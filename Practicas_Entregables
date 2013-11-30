@@ -1,0 +1,14 @@
+Entregables
+
+Uno
+Un programa que utilice hilos y en un hilo ejecute un subproceso (ls).
+Probarlo y decir si funciona o no, y por que?
+
+Dos
+U programa que ponga a prueba la concurrencia de los hilos.
+Escribir un programa que realice simples multiplicaciones de un numero configurable y 
+lo multiplique secuencialmente hasta cierto otro numero configurable.
+
+
+
+Reportar el tiempo de ejecutarlo con 1 hilo, 2, hilos, 3 hilos, 4 hilos.
